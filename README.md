@@ -7,6 +7,8 @@ This is project there for the people who want to travel to new places
 
 1)QnA maker 2)Static webapps 3)Azure Bot Service
 
+For creating Question and Answer pair, I have used QnAMaker. I integreted QnAMAker with Web App bot. Then for hosting I have used Static Web App Service.
+
 # Azure Static Web Apps: 
 
 Following are some key features of Azure Static Web Apps that made me choose this service:
