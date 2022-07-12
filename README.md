@@ -1,14 +1,13 @@
 # JTRVELS-BOT ✈️🧳:
 
 This is project there for the people who want to travel to new places 
-
+#azure link  https://proud-moss-0c1d12110.1.azurestaticapps.net
 
 # Azure services used in this project
 
 1)QnA maker 2)Static webapps 3)Azure Bot Service
 
 For creating Question and Answer pair, I have used QnAMaker. I integreted QnAMAker with Web App bot. Then for hosting I have used Static Web App Service.
-
 # Azure Static Web Apps: 
 
 Following are some key features of Azure Static Web Apps that made me choose this service:
@@ -24,12 +23,6 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 5.Free SSL certificates, which are automatically renewed.
 
 6.Custom domains to provide branded customizations to your app.
-
-
-
-# project link:- https://proud-moss-0c1d12110.1.azurestaticapps.net
-
-
 
 
 # Sample images of the project :
